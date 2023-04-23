@@ -1,0 +1,81 @@
+
+
+header {
+  
+  background-image: linear-gradient(to bottom right, #ffffff, #2e3aa5);
+}
+
+
+li {
+  color: black;
+  font-size: small;
+  font-weight: bold;
+
+}
+
+li:hover {}
+
+.logo{
+  margin-left: 15px;
+  margin-top: 10px;
+  max-width: 100%;
+  height: auto;
+  }
+  
+  .contenedor-imagen img {
+    max-width: 100%;
+    height: auto;
+
+  }
+
+  .logofinal{
+    max-width: 100%;
+    height: auto;
+      
+  }
+
+
+.contenedor-imagen {
+  max-width: 100%;
+  height: auto;
+}
+
+.contenedor-imagen img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+.leo{
+  margin-top: 18px;
+  margin-left: 10px;
+  font-weight: bold;
+
+ 
+}
+
+.fa {
+  color: aliceblue;
+}
+
+.whatsapp-button {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  background-color: #25d366;
+  color: #fff;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 60px;
+  font-size: 30px;
+  transition: transform 0.2s ease-in-out;
+  z-index: 9999;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+.whatsapp-button:hover {
+  transform: scale(1.1);
+  cursor: pointer;
+}
