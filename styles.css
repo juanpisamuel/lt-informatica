@@ -79,3 +79,9 @@ li:hover {}
   transform: scale(1.1);
   cursor: pointer;
 }
+
+.link {
+  text-decoration: none;
+  color: white;
+ 
+} 
